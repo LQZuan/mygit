@@ -1,0 +1,4 @@
+Hello Git!!!
+Linqingzuan's first git file.
+Commit!!
+Successfully!!
